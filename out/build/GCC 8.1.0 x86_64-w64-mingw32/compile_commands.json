@@ -1,0 +1,20 @@
+[
+{
+  "directory": "Z:/VScode/Workspace_GAMES/Assignment2/out/build/GCC 8.1.0 x86_64-w64-mingw32",
+  "command": "Z:\\mingw64\\bin\\g++.exe  @CMakeFiles/Assignment2.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Assignment2.dir\\main.cpp.obj -c Z:\\VScode\\Workspace_GAMES\\Assignment2\\main.cpp",
+  "file": "Z:/VScode/Workspace_GAMES/Assignment2/main.cpp",
+  "output": "CMakeFiles/Assignment2.dir/main.cpp.obj"
+},
+{
+  "directory": "Z:/VScode/Workspace_GAMES/Assignment2/out/build/GCC 8.1.0 x86_64-w64-mingw32",
+  "command": "Z:\\mingw64\\bin\\g++.exe  @CMakeFiles/Assignment2.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Assignment2.dir\\rasterizer.cpp.obj -c Z:\\VScode\\Workspace_GAMES\\Assignment2\\rasterizer.cpp",
+  "file": "Z:/VScode/Workspace_GAMES/Assignment2/rasterizer.cpp",
+  "output": "CMakeFiles/Assignment2.dir/rasterizer.cpp.obj"
+},
+{
+  "directory": "Z:/VScode/Workspace_GAMES/Assignment2/out/build/GCC 8.1.0 x86_64-w64-mingw32",
+  "command": "Z:\\mingw64\\bin\\g++.exe  @CMakeFiles/Assignment2.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Assignment2.dir\\Triangle.cpp.obj -c Z:\\VScode\\Workspace_GAMES\\Assignment2\\Triangle.cpp",
+  "file": "Z:/VScode/Workspace_GAMES/Assignment2/Triangle.cpp",
+  "output": "CMakeFiles/Assignment2.dir/Triangle.cpp.obj"
+}
+]
